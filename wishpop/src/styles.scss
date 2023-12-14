@@ -26,6 +26,8 @@ label {
   align-self: center;
   transition-delay: 0.2ms;
   transition-duration: 0.2s;
+
+
   cursor: pointer;
   &.rosso:hover {
     background-color: rgb(223, 85, 85);

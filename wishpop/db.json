@@ -180,6 +180,12 @@
         "number": "3e3e"
       },
       "favPayMethod": "creditCard"
+    },
+    {
+      "email": "cocco.bill@hotmail.it",
+      "password": "$2a$10$rsRTkmLBq3V.zUvz3nQ/HuMiFJkzjDqJ6DoIf7QOY0hhjR11s7bS2",
+      "firstTime": true,
+      "id": 15
     }
   ],
   "products": [
@@ -281,6 +287,24 @@
       "cat": "",
       "cond": "",
       "id": 11
+    },
+    {
+      "name": "cocco",
+      "description": "nnnnn",
+      "price": "5",
+      "image": " https://images.glamour.it/wp-content/uploads/2016/07/1469690638_benessere-cocco_980x571-920x571.jpg",
+      "cat": "",
+      "cond": "",
+      "id": 12
+    },
+    {
+      "name": "limone",
+      "description": "ffffffffffff",
+      "price": "6",
+      "image": "https://www.viridea.it/wp-content/uploads/2013/12/Limone.jpg",
+      "cat": "",
+      "cond": "",
+      "id": 13
     }
   ],
   "categories": [
